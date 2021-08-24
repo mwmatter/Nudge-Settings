@@ -5,7 +5,7 @@
   "osVersionRequirements": [
     {
       "aboutUpdateURL": "https://apple.com",
-      "requiredInstallationDate": "2021-09-30T00:00:00Z",
+      "requiredInstallationDate": "2021-07-30T00:00:00Z",
       "requiredMinimumOSVersion": "11.5.2",
       "targetedOSVersions": [
         "11.0",
