@@ -10,8 +10,8 @@
           "aboutUpdateURL": "https://support.apple.com/en-us/HT211896"
         }
       ],
-      "requiredInstallationDate": "2021-08-27T00:08:00Z",
-      "requiredMinimumOSVersion": "11.5.3",
+      "requiredInstallationDate": "2021-08-24T00:08:00Z",
+      "requiredMinimumOSVersion": "11.5.2",
       "targetedOSVersions": [
         "11.0",
         "11.0.1",
