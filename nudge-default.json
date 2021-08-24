@@ -5,7 +5,7 @@
   "osVersionRequirements": [
     {
       "aboutUpdateURL": "https://apple.com",
-      "requiredInstallationDate": "2021-09-30T00:00:00Z",
+      "requiredInstallationDate": "2021-09-29T00:00:00Z",
       "requiredMinimumOSVersion": "11.5.2",
       "targetedOSVersions": [
         "11.0",
@@ -29,7 +29,7 @@
     "allowedDeferrals": 1000000,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
     "approachingWindowTime": 96,
-    "imminentWindowTime": 48,
+    "imminentWindowTime": 72,
     "elapsedRefreshCycle": 300
   },
   "userInterface": {
