@@ -5,7 +5,7 @@
   "osVersionRequirements": [
     {
       "aboutUpdateURL": "https://apple.com",
-      "requiredInstallationDate": "2021-09-29T00:00:00Z",
+      "requiredInstallationDate": "2021-08-27T17:00:00Z",
       "requiredMinimumOSVersion": "11.5.2",
       "targetedOSVersions": [
         "11.0",
@@ -28,8 +28,8 @@
     "allowUserQuitDeferrals": true,
     "allowedDeferrals": 1000000,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
-    "approachingWindowTime": 96,
-    "imminentWindowTime": 72,
+    "approachingWindowTime": 72,
+    "imminentWindowTime": 48,
     "elapsedRefreshCycle": 300
   },
   "userInterface": {
@@ -48,7 +48,7 @@
         "mainContentNote": "Important Notes",
         "mainContentSubHeader": "Updates can take around 30-60 minutes to complete",
         "mainContentText": "To begin click on the Update Device button and follow the steps outlined in the Software Update pop-up that appears.\n\nBefore beginning the update ensure all important files have been saved as the computer will need to restart.",
-        "mainHeader": "Your device requires a security update",
+        "mainHeader": "macOS update required",
         "primaryQuitButtonText": "Later",
         "secondaryQuitButtonText": "I understand",
         "subHeader": ""
