@@ -22,27 +22,12 @@
         "11.5.1"
       ],
       "targetedOSVersionsRule": "default"
-    },
-    {
-      "aboutUpdateURL": "https://apple.com",
-      "requiredInstallationDate": "2021-08-30T00:00:00Z",
-      "requiredMinimumOSVersion": "11.5.2",
-      "targetedOSVersionsRule": "11.5.1"
     }
   ],
   "userExperience": {
     "allowedDeferrals": 1000000,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
-    "approachingRefreshCycle": 6000,
-    "approachingWindowTime": 72,
-    "elapsedRefreshCycle": 300,
-    "imminentRefreshCycle": 600,
-    "imminentWindowTime": 24,
-    "initialRefreshCycle": 18000,
-    "maxRandomDelayInSeconds": 1200,
-    "noTimers": false,
-    "nudgeRefreshCycle": 60,
-    "randomDelay": false
+    "elapsedRefreshCycle": 300
   },
   "userInterface": {
     "fallbackLanguage": "en",
