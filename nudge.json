@@ -4,13 +4,8 @@
   },
   "osVersionRequirements": [
     {
-      "aboutUpdateURLs": [
-        {
-          "_language": "en",
-          "aboutUpdateURL": "https://support.apple.com/en-us/HT211896"
-        }
-      ],
-      "requiredInstallationDate": "2021-08-24T00:08:00Z",
+      "aboutUpdateURL": "https://apple.com",
+      "requiredInstallationDate": "2021-07-30T00:00:00Z",
       "requiredMinimumOSVersion": "11.5.2",
       "targetedOSVersions": [
         "11.0",
@@ -25,7 +20,8 @@
         "11.4",
         "11.5",
         "11.5.1"
-      ]
+      ],
+      "targetedOSVersionsRule": "default"
     }
   ],
   "userExperience": {
