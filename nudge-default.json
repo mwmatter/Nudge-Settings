@@ -28,8 +28,8 @@
     "allowUserQuitDeferrals": true,
     "allowedDeferrals": 1000000,
     "allowedDeferralsUntilForcedSecondaryQuitButton": 14,
-    "approachingWindowTime": 72,
-    "imminentWindowTime": 48,
+    "approachingWindowTime": 96,
+    "imminentWindowTime": 72,
     "elapsedRefreshCycle": 300
   },
   "userInterface": {
